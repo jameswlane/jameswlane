@@ -17,7 +17,9 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2030%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,15 +60,14 @@ Sunday                   6710 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               5 hrs 43 mins       ██████████████░░░░░░░░░░░   55.63 % 
+TypeScript               5 hrs 49 mins       ██████████████░░░░░░░░░░░   56.50 % 
 .env file                1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 Prisma                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-WebStorm                 10 hrs 12 mins      █████████████████████████   99.13 % 
-Firefox                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+WebStorm                 10 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
 scylax.io                9 hrs 24 mins       ███████████████████████░░   91.31 % 
@@ -93,5 +94,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 13:58:00 UTC
+ Last Updated on 29/07/2024 16:09:20 UTC
 <!--END_SECTION:waka-->
