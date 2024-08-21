@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
@@ -86,18 +86,18 @@ Sunday                   6704 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Ruby                     7 hrs 9 mins        ██████████████████░░░░░░░   72.92 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Ruby                     3 hrs 40 mins       ██████████████░░░░░░░░░░░   55.77 % 
+TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-RubyMine                 8 hrs 8 mins        █████████████████████░░░░   82.96 % 
-WebStorm                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+RubyMine                 4 hrs 49 mins       ██████████████████░░░░░░░   73.35 % 
+WebStorm                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
 
 💻 Operating System: 
-Linux                    9 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +117,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 00:14:53 UTC
+ Last Updated on 21/08/2024 08:09:50 UTC
 <!--END_SECTION:waka-->
