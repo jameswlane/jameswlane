@@ -43,15 +43,13 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 29.9 kB Used in GitHub's Storage 
- > 
-> 🏆 190 Contributions in the Year 2024
+> 📦 30.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -118,5 +116,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2024 16:09:28 UTC
+ Last Updated on 30/08/2024 00:15:53 UTC
 <!--END_SECTION:waka-->
