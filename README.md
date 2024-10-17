@@ -43,15 +43,13 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 30.5 kB Used in GitHub's Storage 
- > 
-> 🏆 263 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -119,5 +117,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 08:13:32 UTC
+ Last Updated on 17/10/2024 16:10:56 UTC
 <!--END_SECTION:waka-->
