@@ -43,15 +43,13 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 30.1 kB Used in GitHub's Storage 
- > 
-> 🏆 350 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,18 +84,18 @@ Sunday                   6718 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Bash                     2 hrs 46 mins       ███████████████░░░░░░░░░░   58.67 % 
-YAML                     1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Shell Script             24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+YAML                     3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.70 % 
+Bash                     2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+Shell Script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Properties               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 35 mins       ████████████████████████░   96.68 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+PyCharm                  7 hrs 22 mins       ████████████████████████░   97.91 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Linux                    4 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +115,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 08:09:55 UTC
+ Last Updated on 23/11/2024 16:10:09 UTC
 <!--END_SECTION:waka-->
