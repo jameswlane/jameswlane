@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,15 +86,15 @@ Sunday                   6718 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.70 % 
-Bash                     2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+YAML                     3 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.73 % 
+Bash                     2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
 Shell Script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 Properties               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 22 mins       ████████████████████████░   97.91 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+PyCharm                  7 hrs 23 mins       ████████████████████████░   97.92 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
 Linux                    7 hrs 32 mins       █████████████████████████   100.00 % 
@@ -117,5 +117,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 08:09:57 UTC
+ Last Updated on 24/11/2024 16:10:04 UTC
 <!--END_SECTION:waka-->
