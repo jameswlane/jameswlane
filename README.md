@@ -43,15 +43,13 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2039%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 30.8 kB Used in GitHub's Storage 
  > 
-> 🏆 351 Contributions in the Year 2024
+> 🏆 352 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,42 +57,6 @@ My tools:
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15271 commits       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-🌆 Daytime                18601 commits       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌃 Evening                20586 commits       █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌙 Night                  3126 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6991 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  5567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Wednesday                9791 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 11323 commits       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Friday                   10009 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Saturday                 7185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   6718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-YAML                     13 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-PyCharm                  13 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,5 +74,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 00:22:42 UTC
+ Last Updated on 01/12/2024 08:10:19 UTC
 <!--END_SECTION:waka-->
