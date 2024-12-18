@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -86,19 +86,18 @@ Sunday                   6763 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
-Go                       4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
-Python                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Shell Script             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Go                       6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
+YAML                     5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
+Shell Script             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-GoLand                   11 hrs 13 mins      █████████████████░░░░░░░░   69.67 % 
-WebStorm                 3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-PyCharm                  1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+GoLand                   13 hrs 19 mins      ████████████████████░░░░░   81.12 % 
+WebStorm                 3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 💻 Operating System: 
-Linux                    16 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +117,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 08:11:58 UTC
+ Last Updated on 18/12/2024 16:11:18 UTC
 <!--END_SECTION:waka-->
