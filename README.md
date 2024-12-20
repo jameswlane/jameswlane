@@ -43,13 +43,15 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 37.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 469 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,18 +86,19 @@ Sunday                   6763 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       8 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.13 % 
-YAML                     6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
-Shell Script             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Go                       12 hrs 55 mins      ██████████████░░░░░░░░░░░   56.26 % 
+YAML                     6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Shell Script             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-GoLand                   15 hrs 33 mins      █████████████████████░░░░   83.37 % 
-WebStorm                 3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+GoLand                   19 hrs 24 mins      █████████████████████░░░░   84.47 % 
+WebStorm                 3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Linux                    18 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 08:10:56 UTC
+ Last Updated on 20/12/2024 16:10:43 UTC
 <!--END_SECTION:waka-->
