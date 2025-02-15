@@ -43,13 +43,15 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 39.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 15 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -57,6 +59,48 @@ My tools:
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15480 commits       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+🌆 Daytime                19256 commits       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌃 Evening                20922 commits       █████████░░░░░░░░░░░░░░░░   35.58 % 
+🌙 Night                  3142 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Tuesday                  5669 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Wednesday                9811 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Thursday                 11344 commits       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Friday                   10576 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Saturday                 7235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Sunday                   7003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+TypeScript               4 hrs 56 mins       ████████████████████████░   96.50 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+WebStorm                 5 hrs 7 mins        █████████████████████████   99.95 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Linux                    5 hrs 7 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,5 +118,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 08:10:07 UTC
+ Last Updated on 15/02/2025 16:12:55 UTC
 <!--END_SECTION:waka-->
