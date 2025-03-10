@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,17 +86,17 @@ Sunday                   7031 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               32 hrs 30 mins      ███████████████████████░░   92.05 % 
-JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript               29 hrs 20 mins      ███████████████████████░░   93.58 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-WebStorm                 35 hrs 18 mins      █████████████████████████   100.00 % 
+WebStorm                 31 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    35 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 00:16:10 UTC
+ Last Updated on 10/03/2025 08:11:19 UTC
 <!--END_SECTION:waka-->
