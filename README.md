@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ My tools:
 
 > 📦 41.8 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2025
+> 🏆 32 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,11 +102,11 @@ Linux                    24 hrs 35 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ███████████████░░░░░░░░░░   60.71 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               17 repos            ███████████████░░░░░░░░░░   58.62 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 08:11:43 UTC
+ Last Updated on 12/03/2025 16:11:53 UTC
 <!--END_SECTION:waka-->
