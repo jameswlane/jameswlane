@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,14 +86,18 @@ Sunday                   7085 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               22 hrs 39 mins      █████████████████████████   99.33 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TypeScript               20 hrs 30 mins      ████████████████████████░   96.56 % 
+Shell Script             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-WebStorm                 22 hrs 48 mins      █████████████████████████   100.00 % 
+WebStorm                 21 hrs 11 mins      █████████████████████████   99.74 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Linux                    22 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,5 +117,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 00:17:32 UTC
+ Last Updated on 15/03/2025 08:10:17 UTC
 <!--END_SECTION:waka-->
