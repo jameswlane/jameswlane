@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,17 +86,17 @@ Sunday                   7112 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Docker                   1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-YAML                     1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.32 % 
-JSON                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Docker                   3 hrs 17 mins       █████████████████░░░░░░░░   69.70 % 
+YAML                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Nginx configuration file 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Shell Script             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 29 mins       █████████████████████████   100.00 % 
+WebStorm                 4 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 08:12:55 UTC
+ Last Updated on 03/05/2025 16:09:58 UTC
 <!--END_SECTION:waka-->
