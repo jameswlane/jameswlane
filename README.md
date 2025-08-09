@@ -43,7 +43,7 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -86,17 +86,18 @@ Sunday                   6865 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.35 % 
-YAML                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Bash                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Text                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Shell Script             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Go                       2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.73 % 
+YAML                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Bash                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Shell Script             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-GoLand                   5 hrs 56 mins       █████████████████████████   100.00 % 
+GoLand                   6 hrs 8 mins        █████████████████████████   98.22 % 
+WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Linux                    5 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,5 +117,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 08:12:33 UTC
+ Last Updated on 09/08/2025 16:09:16 UTC
 <!--END_SECTION:waka-->
