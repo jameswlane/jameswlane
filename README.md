@@ -43,13 +43,13 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 187.5 kB Used in GitHub's Storage 
+> 📦 187.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,019 Contributions in the Year 2025
  > 
@@ -86,17 +86,17 @@ Sunday                   6891 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
-Go                       1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Text                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+YAML                     2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
+Go                       1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Text                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-GoLand                   6 hrs 1 min         █████████████████████████   100.00 % 
+GoLand                   6 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 08:10:54 UTC
+ Last Updated on 13/09/2025 16:09:37 UTC
 <!--END_SECTION:waka-->
