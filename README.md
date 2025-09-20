@@ -43,6 +43,8 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -84,17 +86,17 @@ Sunday                   7207 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     48 mins             ████████░░░░░░░░░░░░░░░░░   33.98 % 
-TypeScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-YAML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Go                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-.env file                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     47 mins             ██████████░░░░░░░░░░░░░░░   41.51 % 
+TypeScript               40 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
+Go                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+.env file                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Prisma                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 23 mins       █████████████████████████   100.00 % 
+GoLand                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 08:12:50 UTC
+ Last Updated on 20/09/2025 16:09:38 UTC
 <!--END_SECTION:waka-->
