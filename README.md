@@ -43,6 +43,8 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -84,17 +86,17 @@ Sunday                   6877 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     1 hr 1 min          █████████████░░░░░░░░░░░░   53.87 % 
-Go                       21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+YAML                     1 hr                ██████████████░░░░░░░░░░░   57.74 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Go                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-GoLand                   1 hr 53 mins        █████████████████████████   100.00 % 
+GoLand                   1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 08:10:45 UTC
+ Last Updated on 03/10/2025 16:11:13 UTC
 <!--END_SECTION:waka-->
