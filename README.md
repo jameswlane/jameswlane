@@ -43,6 +43,8 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,42 @@ My tools:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15434 commits       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+🌆 Daytime                19302 commits       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌃 Evening                20897 commits       █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌙 Night                  3087 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Tuesday                  5627 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Wednesday                9932 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Thursday                 11431 commits       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Friday                   10031 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Saturday                 7653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Sunday                   7045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 08:10:45 UTC
+ Last Updated on 01/11/2025 16:10:03 UTC
 <!--END_SECTION:waka-->
