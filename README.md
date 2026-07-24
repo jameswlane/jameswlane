@@ -43,6 +43,8 @@ My tools:
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,42 @@ My tools:
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15404 commits       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+🌆 Daytime                19340 commits       ████████░░░░░░░░░░░░░░░░░   32.80 % 
+🌃 Evening                21136 commits       █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌙 Night                  3080 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Tuesday                  5608 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Wednesday                9904 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Thursday                 11425 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Friday                   9855 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Saturday                 7953 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Sunday                   7223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,5 +112,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 08:58:42 UTC
+ Last Updated on 24/07/2026 16:38:39 UTC
 <!--END_SECTION:waka-->
