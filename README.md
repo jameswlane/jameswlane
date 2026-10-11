@@ -88,19 +88,39 @@ Sunday                   7223 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 mins             ██████████░░░░░░░░░░░░░░░   39.85 % 
+Jest Snapshot            6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+nvmrc                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 28 mins (82.3%)
+
+✍️ 251 lines written by AI, 7 lines written by hand (97.29% AI-written)
+
+🔤 115,033 Input Tokens, 70,841 Output Tokens
+
+💵 $12.70 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Kimi                     251 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.29% of written lines came from AI
+📝 Concise Prompter — average 210 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +139,5 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 03:24:24 UTC
+ Last Updated on 11/10/2026 14:40:53 UTC
 <!--END_SECTION:waka-->
