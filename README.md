@@ -88,19 +88,44 @@ Sunday                   7259 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 29 mins             ████████████████░░░░░░░░░   62.19 % 
+TypeScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              21 mins             ███████████░░░░░░░░░░░░░░   45.67 % 
+Webstorm                 19 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
+WebStorm                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 44 mins (93.68%)
+
+✍️ 44 lines written by AI, 4 lines written by hand (91.67% AI-written)
+
+🔤 555,793 Input Tokens, 143,052 Output Tokens
+
+💵 $48.10 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 28 AI Prompts
+
+Opus                     56 lines            █████████████████████████   100.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 91.67% of written lines came from AI
+📚 Verbose Prompter — average 2,855 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 6.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +144,5 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:45:01 UTC
+ Last Updated on 26/10/2026 14:56:29 UTC
 <!--END_SECTION:waka-->
