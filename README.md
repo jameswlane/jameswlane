@@ -51,9 +51,9 @@ My tools:
 
 **🐱 My GitHub Data** 
 
-> 📦 127.8 kB Used in GitHub's Storage 
+> 📦 127.9 kB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2026
+> 🏆 197 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -64,8 +64,8 @@ My tools:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14731 commits       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-🌆 Daytime                18939 commits       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌞 Morning                14734 commits       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌆 Daytime                18939 commits       ████████░░░░░░░░░░░░░░░░░   32.82 % 
 🌃 Evening                20950 commits       █████████░░░░░░░░░░░░░░░░   36.31 % 
 🌙 Night                  3074 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
@@ -75,8 +75,8 @@ My tools:
 Monday                   6765 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 Tuesday                  5857 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 Wednesday                9741 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 11298 commits       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Friday                   9638 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Thursday                 11301 commits       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Friday                   9638 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Saturday                 7392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Sunday                   7003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
@@ -88,44 +88,44 @@ Sunday                   7003 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 29 mins             ████████████████░░░░░░░░░   62.19 % 
-TypeScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Markdown                 3 hrs 34 mins       █████████████░░░░░░░░░░░░   53.43 % 
+TypeScript               1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Claude Code              21 mins             ███████████░░░░░░░░░░░░░░   45.67 % 
-Webstorm                 19 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
-WebStorm                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Claude Code              4 hrs 8 mins        ███████████████░░░░░░░░░░   61.95 % 
+Webstorm                 1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+WebStorm                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (93.68%)
+⏱ AI Coding Time: 6 hrs 38 mins (99.25%)
 
-✍️ 44 lines written by AI, 4 lines written by hand (91.67% AI-written)
+✍️ 2,917 lines written by AI, 4 lines written by hand (99.86% AI-written)
 
-🔤 555,793 Input Tokens, 143,052 Output Tokens
+🔤 2,676,831 Input Tokens, 846,781 Output Tokens
 
-💵 $48.10 Estimated AI Cost This Week
+💵 $84.35 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 28 AI Prompts
+🧠 25 AI Sessions, 125 AI Prompts
 
-Opus                     56 lines            █████████████████████████   100.00 % 
+Opus                     2,441 lines         █████████████████████░░░░   83.65 % 
+GPT                      477 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.67% of written lines came from AI
-📚 Verbose Prompter — average 2,855 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 6.67% of changed lines were hand-edited
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 1,940 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,5 +144,5 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:55:22 UTC
+ Last Updated on 29/10/2026 15:02:20 UTC
 <!--END_SECTION:waka-->
