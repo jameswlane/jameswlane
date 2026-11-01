@@ -88,46 +88,47 @@ Sunday                   6718 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 4 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.37 % 
-Go                       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Go                       7 hrs 30 mins       █████████████░░░░░░░░░░░░   50.01 % 
+Markdown                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 29 mins       ███████████████░░░░░░░░░░   58.71 % 
-Codex CLI                1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Webstorm                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-GoLand                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-WebStorm                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Claude Code              8 hrs 51 mins       ███████████████░░░░░░░░░░   58.91 % 
+Codex CLI                4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Codex Vscode             54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+GoLand                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Webstorm                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 46 mins (93.84%)
+⏱ AI Coding Time: 14 hrs 26 mins (96.16%)
 
-✍️ 5,135 lines written by AI, 15 lines written by hand (99.71% AI-written)
+✍️ 7,472 lines written by AI, 15 lines written by hand (99.8% AI-written)
 
-🔤 8,124,935 Input Tokens, 2,007,611 Output Tokens
+🔤 18,908,350 Input Tokens, 3,539,512 Output Tokens
 
-💵 $347.92 Estimated AI Cost This Week
+💵 $722.67 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 275 AI Prompts
+🧠 94 AI Sessions, 542 AI Prompts
 
-Opus                     2,878 lines         ██████████████░░░░░░░░░░░   55.11 % 
-GPT                      1,696 lines         ████████░░░░░░░░░░░░░░░░░   32.48 % 
-K                        648 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+GPT                      3,278 lines         ███████████░░░░░░░░░░░░░░   43.42 % 
+Opus                     2,724 lines         █████████░░░░░░░░░░░░░░░░   36.08 % 
+K                        1,547 lines         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
 Kimi-Code                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 2,728 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 2,468 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,5 +147,5 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 14:48:19 UTC
+ Last Updated on 01/11/2026 20:09:32 UTC
 <!--END_SECTION:waka-->
