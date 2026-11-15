@@ -11,6 +11,23 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          SHOW_PROJECTS: false
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Keep languages, OS and commit-timing charts. Line counts and
+          # AI usage measure volume, not quality, so they are turned off.
+          SHOW_LANGUAGE: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_TIMEZONE: false
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SHOW_OS: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LINES_OF_CODE: false
+          SHOW_LOC_CHART: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_SHORT_INFO: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_AI_CODE_TIME: false
+          SHOW_AI_CODING: false
+          SHOW_UPDATED_DATE: false
