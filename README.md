@@ -1,151 +1,88 @@
-<h1 align="center">Hi 👋, I'm James W Lane</h1>
-<h3 align="center">As an Agile Coach, Product Manager, Engineering Manager, and Full-Stack Software Engineer, I bring a diverse skill set to the table and am ready to tackle any challenge.</h3>
-<h3 align="center">I'm here and ready to collaborate if you have any questions or are interested in launching 🚀 a project together.</h3>
+<h1 align="center">Hi, I'm James W. Lane</h1>
 
-<div style="margin-top: 16px;" />
+<p align="center">
+  Engineer, technical lead, and Agile coach. I've spent 20 years helping teams ship software that holds up in production.<br/>
+  I care about the work being <b>right</b>, more than about it being big or fast.
+</p>
 
-<h3 align="center">📫 You can reach me by email at info 'at' jameswlane 'dot' com</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jameswlane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/jameswlane"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.jameswlane.com"><img src="https://img.shields.io/badge/jameswlane.com-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.npmjs.com/package/jameswlane"><img src="https://img.shields.io/badge/npx_jameswlane-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npx jameswlane"></a>
+</p>
 
-<div style="margin-top: 48px;" />
+<p align="center">📫 info 'at' jameswlane 'dot' com · Springfield, MO</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameswlane/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jameswlane)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fwww.jameswlane.com)](https://www.jameswlane.com)
+---
 
-<div style="margin-top: 48px;" />
+## What I'm building
 
-- 🔭 I'm currently working on:
-  - DevEx - A shell script for setting up a Linux development environment.
-  - Scylax - A GitHub application for tracking value delivery from teams.
-- 🌱 I'm currently learning:
-  - On training and building AI-powered applications.
-- 👯 I'm looking to collaborate on anything to help improve the team's value delivery.
+### Products
 
-### Experience & tools I use:
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[DevEx](https://github.com/jameswlane/devex)** · [devex.sh](https://devex.sh) | A CLI that sets up and manages development environments on Linux, macOS, and Windows. A plugin architecture covers 36 package managers and desktop environments. | Go, Cobra/Viper, Next.js, Turborepo |
+| **Forecash** *(private)* | Personal finance forecasting. It connects your bank accounts, tracks bills and income, and projects your cash flow toward goals such as a down payment or an emergency fund. | Next.js, Expo, Prisma, Clerk, Plaid |
+| **DeployGrid** *(private)* | A platform for managing game servers on Docker. Each server runs in an isolated container, with remote worker nodes, licensing, and a customer portal. | Go, Next.js, Docker, PostgreSQL, Clerk |
+| **Scylax** *(private, [Fueled By Dreams](https://fueledbydreams.com))* | A GitHub app that measures the value a team delivers, not how busy it is. | Ruby on Rails, Sidekiq, Redis, Next.js, Fly.io |
+| **Steam Vault** *(private, open source soon)* | A self-hosted dashboard for Steam libraries spread across several accounts, a gaming PC, and a TrueNAS server. It suggests which games to archive and never touches game files. | TypeScript, Vite, Docker, TrueNAS |
 
-My experience spans the development of web and terminal applications, providing me with a comprehensive understanding of these domains.
+### Open source I maintain
 
-My tools:
-- Web >> Next.js, TypeScript, Ruby on Rails, and Python
-- APIs >> REST & GraphQL
-- DevOps >> Docker, Kubernetes, Helm, Prometheus, Grafana, Ansible
+| Project | What it is |
+| --- | --- |
+| **[jest-express](https://github.com/jest-express/jest-express)** ![stars](https://img.shields.io/github/stars/jest-express/jest-express?style=flat-square&label=%E2%98%85) | Typed mocks of Express 5 apps, routers, requests, and responses for unit tests. It now ships separate packages for Vitest and Jest, plus a core package that works with any test runner. |
+| **[React Pure Loaders](https://github.com/react-pure-loaders/react-pure-loaders)** ![stars](https://img.shields.io/github/stars/react-pure-loaders/react-pure-loaders?style=flat-square&label=%E2%98%85) | Loading animations for React built as PureComponents. |
+| **[Status Board](https://github.com/status-board/status-board)** ![stars](https://img.shields.io/github/stars/status-board/status-board?style=flat-square&label=%E2%98%85) | A dashboard framework for Node.js with plugin widgets and themes. |
 
-[🔭 Find out what I’m currently working on](https://www.jameswlane.com/now)  
+## Work I'm proud of
 
-<div style="margin-top: 50px;"/>
+**[TopDecked](https://www.topdecked.com)**: DevOps Engineer & Technical Lead (2024–present)
+TopDecked is the essential Magic: The Gathering app for brewers, collectors, traders, and competitors. My work there:
+- Moved the platform into a single Turborepo monorepo and brought its dependencies up to date.
+- Built a CI/CD pipeline on GitHub Actions. It checks every pull request, creates a preview environment for each branch, deploys automatically to staging and production, and builds the iOS and Android apps.
+- Lowered infrastructure costs by simplifying the stack and switching to deployments built from artifacts stored in GitHub Packages.
+- Set shared standards for testing and code quality so the team can keep moving quickly without creating new technical debt.
 
-### The summary of my repos:
-- [DevEx](https://github.com/jameswlane/devex)  
+**John Deere** (2014–2024): Senior Engineer → Technical Coach → Agile Coach
+- Helped build the digital credit preapproval system for John Deere Financial, which added **$20M in sales in its first three months**.
+- Introduced blue/green deployments and reached **99.99% uptime**. Took a team first to market with the AEMP 2.0 telematics standard.
+- As a coach, used outcome-based experiments and story mapping to help teams focus on the work that mattered most. Teams I coached increased their value delivery by 30–40%.
+- Received the 2024 CISO Award for Technology.
 
-### For the stat nerds:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jameswlane&theme=tokyonight)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameswlane&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app)
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jameswlane&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app)
+**Earlier:** I founded [Fueled By Dreams](https://fueledbydreams.com) and grew it to a team of eight that delivered more than 100 client sites, including one for Arrowhead Stadium. I also led front-end and e-commerce teams.
+
+## How I work
+
+I don't measure my work in lines of code or hours. I care whether it's correct, easy to maintain, and delivers value.
+
+- **Code quality.** Every change is reviewed before it merges, and I'm accountable for all of it. Linting, formatting, and static analysis (Biome, golangci-lint, Qodana, CodeQL) run automatically, so reviews can focus on design and behavior.
+- **Testing.** Tests ship with the code. DevEx has almost 500 Go test files, plus end-to-end tests and installer tests on virtual machines. My TypeScript projects use Vitest with coverage reports.
+- **CI/CD.** Every pull request is built and tested. Branches get preview environments, and releases are automated with versioning and changelogs. If shipping is easy and safe, teams ship more often.
+- **Project management.** I start from the outcome and plan the work back from it. Work is tracked in Linear and GitHub Issues with clear definitions of done, roadmaps are tied to issues, and pull requests stay small and explain the problem they solve.
+
+## Tools I use
+
+- **Languages:** Go · TypeScript · Ruby · Python · Rust
+- **Frameworks:** Next.js · React · Ruby on Rails · Expo
+- **Data & infrastructure:** PostgreSQL · Prisma · Redis · Sidekiq · Docker · Kubernetes · Helm
+- **Platforms:** Vercel · Fly.io · GitHub Actions · Clerk · Plaid · Svix
+- **Tooling:** Turborepo · pnpm · Mise · Biome · Vitest · Lefthook · GoReleaser
+- **Editors & IDEs:** JetBrains IDEs (GoLand · WebStorm · RubyMine · PyCharm · RustRover · DataGrip)
+- **Development assistants:** Claude Code · Codex · Kimi Code · Junie · Orca · T3 Code
+- **Observability:** Prometheus · Grafana · Loki
+- **Process:** Linear · Scrum/Kanban · story mapping · outcome-based roadmaps
+
+---
+
+<details>
+<summary><b>Activity</b></summary>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jameswlane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2049%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 129.7 kB Used in GitHub's Storage 
- > 
-> 🏆 587 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14631 commits       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-🌆 Daytime                18424 commits       ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                20545 commits       █████████░░░░░░░░░░░░░░░░   36.25 % 
-🌙 Night                  3079 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Tuesday                  5517 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Wednesday                9701 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Thursday                 11302 commits       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Friday                   9653 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Saturday                 7038 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   6718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-Go                       7 hrs 30 mins       █████████████░░░░░░░░░░░░   50.01 % 
-Markdown                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-
-🔥 Editors: 
-Claude Code              8 hrs 51 mins       ███████████████░░░░░░░░░░   58.91 % 
-Codex CLI                4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Codex Vscode             54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-GoLand                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Webstorm                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-
-💻 Operating System: 
-Linux                    15 hrs 1 min        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 26 mins (96.16%)
-
-✍️ 7,472 lines written by AI, 15 lines written by hand (99.8% AI-written)
-
-🔤 18,908,350 Input Tokens, 3,539,512 Output Tokens
-
-💵 $722.67 Estimated AI Cost This Week
-
-🧠 94 AI Sessions, 542 AI Prompts
-
-GPT                      3,278 lines         ███████████░░░░░░░░░░░░░░   43.42 % 
-Opus                     2,724 lines         █████████░░░░░░░░░░░░░░░░   36.08 % 
-K                        1,547 lines         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Kimi-Code                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 2,468 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               11 repos            ██████████████░░░░░░░░░░░   55.00 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/jameswlane/jameswlane/main/assets/bar_graph.png)
-
-
- Last Updated on 01/11/2026 20:09:32 UTC
 <!--END_SECTION:waka-->
+
+</details>
